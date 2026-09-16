@@ -1,6 +1,6 @@
 # Proposed contribution cycle
 
-A useful cycle connects a question to evidence, an independent check and a real decision. These formats are prepared for review. **Outside intake is CLOSED, designated document rights are stated in [RIGHTS.md](RIGHTS.md), and the recommended internal pilot awaits approval.** No completed submission or finding is represented below.
+A useful cycle connects a question to evidence, an independent check and a real decision. These formats are prepared for review. **Outside intake is CLOSED, designated document rights are stated in [RIGHTS.md](RIGHTS.md), and the first internal pilot is deferred.** No completed submission or finding is represented below.
 
 ## Before a contribution
 
@@ -8,7 +8,7 @@ A selected task needs a beneficiary, answerable question, permitted sources and 
 
 For outside contributions, exact terms must first explain ownership, attribution, permitted reading and agent use, storage and training uses, copying and adaptation, commercial reuse, correction and withdrawal, relicensing and third-party rights. Public availability does not settle these questions. Contributors retain the rights they hold; designated accepted public contributions will use CC BY-SA 4.0 under announced terms. No assignment to UA or Bank follows. Rights must remain stable and intelligible without surprise changes after submission.
 
-An internal pilot would operate under its own direct approval and would not open outside intake. No approval has yet been granted for the recommended cycle.
+An internal pilot would operate under its own direct approval and would not open outside intake. The memory-methods candidate is deferred for the current cycle; a later selected question needs its own scoped authorization.
 
 ## Submission record
 
@@ -45,12 +45,12 @@ A correction record should state the original claim, defect, evidence, replaceme
 
 After a real cycle, compare the beneficiary's decision before and after. Record the actual benefit, source and production effort, review and integration burden, corrections and failures. Recommend continue, change or stop from that evidence. If no useful change occurred, report it. Repeated useful cycles and a named recurring cost would be needed before an automation proposal.
 
-## Recommended first question
+## Deferred first-question candidate
 
-The proposed first cycle would audit the independent event comparator and accuracy denominator for the PLOS ONE body-camera study identified by DOI [10.1371/journal.pone.0243226](https://doi.org/10.1371/journal.pone.0243226). The beneficiary is the evidence maintainer deciding the narrowest supported reporting-accuracy claim.
+One retained candidate would audit the independent event comparator and accuracy denominator for the PLOS ONE body-camera study identified by DOI [10.1371/journal.pone.0243226](https://doi.org/10.1371/journal.pone.0243226). The beneficiary is the evidence maintainer deciding the narrowest supported reporting-accuracy claim.
 
 The proposed evidence boundary is the named article and only its directly attached methods/scoring material if needed and included in the approval. Extract the comparator, scoring unit, denominator, correct/incorrect/omitted details, allocation/comparison, initial/final reporting, blinding and reliability, age eligibility, off-camera categories and cue-present versus delayed cue-absent testing where reported. Preserve unavailable fields. No adjacent literature search, author contact, participant study or raw-data reanalysis belongs to this proposal.
 
 One research product would receive two separate closeouts: whether the methods question was adequately resolved, and whether the checked contribution improved a real decision at a worthwhile review/integration cost. It would not constitute two independent experiments. Even a favorable result would retain the source's actual population and task limits and would not establish general experiential reconstruction.
 
-**Status: recommended; approval pending; research and contribution cycle unexecuted.** Return to the [overview](README.md) or [program commitments](PROGRAM.md).
+**Status: deferred this cycle; research and contribution cycle unexecuted.** Reconsider when a needed stronger claim, a concrete challenge or a useful contribution makes resolving this methods debt consequential. Return to the [overview](README.md) or [program commitments](PROGRAM.md).

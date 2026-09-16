@@ -27,13 +27,13 @@ The Replicator is a North Star for radically more flexible material production. 
 | Grounded capability | A selected user of an essential good: could a specified production step improve a real alternative? | Compare delivered usable output with resource, waste and integration costs under the relevant conditions. |
 | Breakthrough science | Researchers and eventual users of flexible production: what missing capability could change what is possible? | Specify the missing operation or discovery and an observation that could distinguish the hypothesis from existing capability or an unsupported endpoint. |
 
-These are mission shapes awaiting exact selection. Useful intermediate discoveries and well-supported negative results can advance the program without completing its farthest ambition. The recommended memory-methods pilot is an opportunity to test a useful contribution cycle, not the whole research agenda.
+These are mission shapes awaiting exact selection. Useful intermediate discoveries and well-supported negative results can advance the program without completing its farthest ambition. The deferred memory-methods candidate remains one possible bounded contribution; it does not define the research agenda.
 
 Maximum Sustainable Acceleration remains a heuristic for progress that preserves the ability to learn, cooperate and continue. It is not a measured optimum. Unexpected discoveries can earn separately scoped questions without silently expanding the work underway.
 
 ## State and relationships
 
-The UA organization and public DPoC repository exist; hosting was verified on 17 September 2026 (GMT+8). DPoC was empty at that verification. The contribution mechanism and recommended internal pilot remain unexecuted, with approval pending. Designated document rights are stated in [RIGHTS.md](RIGHTS.md), and outside intake remains closed.
+The UA organization and public DPoC program documentation were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested. The first internal pilot is deferred until a consequential question earns execution. Designated document rights are stated in [RIGHTS.md](RIGHTS.md), and outside intake remains closed.
 
 Make Death an Option supplies the originating argument and conceptual context. Contribution and Replicator programs belong to UA's proposed program map. The commercial Continuity Bank remains separate; UA participation does not require a commercial relationship. None of these relationships establishes an operating continuity service or a guaranteed abundance floor.
 

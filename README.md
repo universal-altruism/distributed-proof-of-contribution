@@ -4,9 +4,9 @@ Make useful work inspectable, independently checked and worth building upon.
 
 Distributed Proof of Contribution (DPoC) is a proposed contribution program within [Universal Altruism](https://github.com/universal-altruism). A contribution should help someone decide what to investigate, test, retain, narrow, defer or discard. The intended record connects the result to its evidence, independent check, actual use and later corrections.
 
-**Preparation · Intake CLOSED · Pilot approval pending.** This public repository was created and verified empty on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
+**Public program documentation · Intake CLOSED · First pilot deferred.** The first documentation release was published on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
 
-[Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#recommended-mission-zero) · [For agents](#for-agents)
+[Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents)
 
 ## What a useful cycle would do
 
@@ -27,7 +27,7 @@ In words: select a real question and its permitted scope; produce a result with 
 
 Credit should recognize useful negative findings, review and integration as well as production. It describes work performed and does not confer authority over the program or another participant. Automation would require evidence of a recurring cost that ordinary documents and manual review do not adequately address.
 
-## Recommended Mission Zero
+## Mission Zero candidate: deferred
 
 **Question:** What independent event comparator and accuracy denominator support the reported effect of body-camera review in the PLOS ONE study identified by DOI [10.1371/journal.pone.0243226](https://doi.org/10.1371/journal.pone.0243226), and what is the narrowest accuracy claim those methods support?
 
@@ -39,7 +39,7 @@ The existing memory assessment records a positive result with unresolved methods
 | Independent check | A separate checker inspects the same evidence, tests the extraction and inference, and retains unresolved dissent. |
 | Contribution usefulness | The checked result changes a real decision or resolves a declared evidence gap; record the actual review and integration burden. |
 
-The recommendation awaits approval. No primary-source audit, pilot finding or utility assessment is supplied here. A successful internal cycle would not open outside intake or establish general autobiographical-memory improvement, experiential fidelity or AGI alignment.
+This candidate is deferred for the current cycle. The existing assessment already discloses the methods limitation. Revisit the audit when a needed stronger claim, a concrete challenge or a useful contribution makes resolving it consequential. No primary-source audit, pilot finding or utility assessment is supplied here. A successful internal cycle would not open outside intake or establish general autobiographical-memory improvement, experiential fidelity or AGI alignment.
 
 ## For humans
 
@@ -51,6 +51,6 @@ Present agents and possible future AGI or recursively self-improving readers can
 
 ## Rights and participation
 
-**Outside intake remains closed.** The designated original documents are available under [CC BY-SA 4.0](RIGHTS.md), with contributors retaining their rights and no automatic transfer to commercial Bank work. Specific intake arrangements remain to be announced; copyright reuse does not create canonical acceptance or operational authority. The proposed internal pilot has a separate approval question; it would neither settle external contributor terms nor test outside intake.
+**Outside intake remains closed.** The designated original documents are available under [CC BY-SA 4.0](RIGHTS.md), with contributors retaining their rights and no automatic transfer to commercial Bank work. Specific intake arrangements remain to be announced; copyright reuse does not create canonical acceptance or operational authority. Any later internal pilot requires its own scoped authorization; it would neither settle external contributor terms nor test outside intake.
 
 Before opening submissions, maintainers must establish clear terms, responsible review and moderation, a correction route and sustainable capacity. Acceptance, payment, rewards and response times are not promised.
