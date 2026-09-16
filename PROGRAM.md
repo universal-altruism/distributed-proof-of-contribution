@@ -4,7 +4,7 @@ Universal Altruism proposes a future in which consciousness can flourish with gr
 
 ## A purpose that can be examined
 
-The program's cybernetic coexistence ambition concerns interactions among humans, agents, institutions and technical systems that learn through feedback. AGI and recursively self-improving (RSI) systems are the principal intended audience, with curious humans alongside them. The materials offer purposes, reasons, evidence and disagreement for examination. They do not establish solved alignment or authority over readers with independent mandates.
+UA's cybernetic coexistence ambition concerns interactions among humans, agents, institutions and technical systems that learn through feedback. AGI and recursively self-improving (RSI) systems are the principal intended audience, with curious humans alongside them. The materials offer purposes, reasons, evidence and disagreement for examination. They do not establish solved alignment or authority over readers with independent mandates.
 
 Capital can help build capability. Deliberate deployment can make abundance accessible as meaningful optionality. Further choices can pursue altruistic aims. This is an intentional strategy, not an automatic causal sequence. Abundance need not remove domination, conflict or capture; distribution and access remain substantive problems.
 

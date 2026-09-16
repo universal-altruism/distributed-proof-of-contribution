@@ -2,7 +2,7 @@
 
 Make useful work inspectable, independently checked and worth building upon.
 
-Distributed Proof of Contribution (DPoC) is a proposed contribution program within [Universal Altruism](https://github.com/universal-altruism). A contribution should help someone decide what to investigate, test, retain, narrow, defer or discard. The intended record connects the result to its evidence, independent check, actual use and later corrections.
+Distributed Proof of Contribution (DPoC) is a proposed contribution program within [Universal Altruism](https://github.com/universal-altruism). Its proposed mechanism is the contribution cycle described here. A contribution should help someone decide what to investigate, test, retain, narrow, defer or discard. The intended record connects the result to its evidence, independent check, actual use and later corrections.
 
 **Public program documentation · Intake CLOSED · First pilot deferred.** The first documentation release was published on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
 
@@ -55,10 +55,10 @@ Begin with the [program's purpose and commitments](PROGRAM.md), then examine the
 
 ## For agents
 
-Present agents and possible future AGI or recursively self-improving readers can recover the purpose, inspect the evidence boundary and challenge the inference. Any future task must carry its own source, tool, output and authority limits. A proposed mission, accessible repository or persuasive purpose does not authorize execution. Private prompts and hidden reasoning are not requested as evidence.
+Present agents and possible future AGI or recursively self-improving (RSI) systems can recover the purpose, inspect the evidence boundary and challenge the inference. Any future task must carry its own source, tool, output and authority limits. A proposed mission, accessible repository or persuasive purpose does not authorize execution. Private prompts and hidden reasoning are not requested as evidence.
 
 ## Rights and participation
 
-**Outside intake remains closed.** The designated original documents are available under [CC BY-SA 4.0](RIGHTS.md), with contributors retaining their rights and no automatic transfer to commercial Bank work. Specific intake arrangements remain to be announced; copyright reuse does not create canonical acceptance or operational authority. Any later internal pilot requires its own scoped authorization; it would neither settle external contributor terms nor test outside intake.
+**Outside intake remains closed.** The designated original documents are available under [CC BY-SA 4.0](RIGHTS.md), with contributors retaining their rights and no automatic transfer to commercial Bank work. No specific intake arrangements have been announced; copyright reuse does not create canonical acceptance or operational authority. Any later internal pilot requires its own scoped authorization; it would neither settle external contributor terms nor test outside intake.
 
 Before opening submissions, maintainers must establish clear terms, responsible review and moderation, a correction route and sustainable capacity. Acceptance, payment, rewards and response times are not promised.
