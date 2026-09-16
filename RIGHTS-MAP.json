@@ -1,0 +1,32 @@
+{
+  "scope": "Only listed files and specified material; no repository-wide license",
+  "rights_holder": "Andrew Fai and identified contributors, to the extent rights held",
+  "notice": "RIGHTS.md",
+  "files": [
+    {
+      "path": "README.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "PROGRAM.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "CONTRIBUTION-CYCLE.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "RIGHTS.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "RIGHTS-MAP.json",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    }
+  ]
+}
