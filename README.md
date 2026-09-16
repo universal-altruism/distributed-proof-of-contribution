@@ -6,7 +6,7 @@ Distributed Proof of Contribution (DPoC) is a proposed contribution program with
 
 **Public program documentation · Intake CLOSED · First pilot deferred.** The first documentation release was published on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
 
-[Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents)
+[Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents) · [Project Atlas](https://open.andrewfai.com/explore/)
 
 ## What a useful cycle would do
 
