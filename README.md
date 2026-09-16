@@ -21,6 +21,14 @@ flowchart TD
     C --> X[Correction or retained dissent]
     X --> R
     U --> N[Continue, change or stop]
+    classDef question fill:#A94E32,stroke:#25231F,color:#F2E9D8,stroke-width:2px;
+    classDef record fill:#F2E9D8,stroke:#25231F,color:#25231F,stroke-width:1.5px;
+    classDef check fill:#153D40,stroke:#25231F,color:#F2E9D8,stroke-width:1.5px;
+    classDef decision fill:#406C90,stroke:#25231F,color:#F2E9D8,stroke-width:1.5px;
+    class Q question;
+    class R,X record;
+    class C check;
+    class D,U,N decision;
 ```
 
 In words: select a real question and its permitted scope; produce a result with evidence; have another checker inspect it; preserve corrections and dissent; record the responsible decision and any integration; then assess whether the cycle was useful enough to continue. The diagram describes a proposed process, not executed work.
