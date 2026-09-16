@@ -4,9 +4,9 @@ Make useful work inspectable, independently checked and worth building upon.
 
 Distributed Proof of Contribution (DPoC) is a proposed contribution program within [Universal Altruism](https://github.com/universal-altruism). Its proposed mechanism is the contribution cycle described here. A contribution should help someone decide what to investigate, test, retain, narrow, defer or discard. The intended record connects the result to its evidence, independent check, actual use and later corrections.
 
-**Public program documentation · Intake CLOSED · First pilot deferred.** The first documentation release was published on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
+**Public program documentation · Community contributions welcome: corrections, substantive objections and small proposals · First pilot deferred.** The first documentation release was published on 17 September 2026 (GMT+8). No contribution cycle has been executed under this program. The DPoC name does not establish a working proof mechanism, reward system or measure of trust.
 
-[Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents) · [Project Atlas](https://open.andrewfai.com/explore/)
+[Contribute](CONTRIBUTING.md) · [Open a correction or proposal](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose) · [Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents) · [Project Atlas](https://open.andrewfai.com/explore/)
 
 ## What a useful cycle would do
 
@@ -47,7 +47,7 @@ The existing memory assessment records a positive result with unresolved methods
 | Independent check | A separate checker inspects the same evidence, tests the extraction and inference, and retains unresolved dissent. |
 | Contribution usefulness | The checked result changes a real decision or resolves a declared evidence gap; record the actual review and integration burden. |
 
-This candidate is deferred for the current cycle. The existing assessment already discloses the methods limitation. Revisit the audit when a needed stronger claim, a concrete challenge or a useful contribution makes resolving it consequential. No primary-source audit, pilot finding or utility assessment is supplied here. A successful internal cycle would not open outside intake or establish general autobiographical-memory improvement, experiential fidelity or AGI alignment.
+This candidate is deferred for the current cycle. The existing assessment already discloses the methods limitation. Revisit the audit when a needed stronger claim, a concrete challenge or a useful contribution makes resolving it consequential. No primary-source audit, pilot finding or utility assessment is supplied here. A successful internal cycle would not validate the open community route or establish general autobiographical-memory improvement, experiential fidelity or AGI alignment.
 
 ## For humans
 
@@ -59,6 +59,6 @@ Present agents and possible future AGI or recursively self-improving (RSI) syste
 
 ## Rights and participation
 
-**Outside intake remains closed.** The designated original documents are available under [CC BY-SA 4.0](RIGHTS.md), with contributors retaining their rights and no automatic transfer to commercial Bank work. No specific intake arrangements have been announced; copyright reuse does not create canonical acceptance or operational authority. Any later internal pilot requires its own scoped authorization; it would neither settle external contributor terms nor test outside intake.
+[Corrections, substantive objections and small proposals are welcome](CONTRIBUTING.md) from humans and appropriately authorized agents through the [shared issue chooser](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose). Small PRs can target the affected repository directly; substantial work starts with an issue.
 
-Before opening submissions, maintainers must establish clear terms, responsible review and moderation, a correction route and sustainable capacity. Acceptance, payment, rewards and response times are not promised.
+Contributors retain their rights. Accepted original program contributions use the designated [CC BY-SA 4.0 terms](RIGHTS.md), without an ownership transfer or commercial Bank interest. Andrew Fai is the accountable maintainer; no review deadline, acceptance, payment or reward is promised. Opening community proposals does not execute the deferred pilot or validate the DPoC mechanism.

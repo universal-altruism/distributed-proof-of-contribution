@@ -27,6 +27,31 @@
       "path": "RIGHTS-MAP.json",
       "license": "CC-BY-SA-4.0",
       "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/01-correction-or-objection.yml",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/02-propose-work.yml",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
     }
   ]
 }

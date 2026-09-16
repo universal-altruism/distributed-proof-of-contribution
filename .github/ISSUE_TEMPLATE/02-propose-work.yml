@@ -1,0 +1,45 @@
+name: Propose a useful contribution
+description: Check the fit of a bounded contribution before investing substantial work.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose one useful piece of work. Review and acceptance are not guaranteed, and no payment or reward is offered. Independent work remains your choice under your own authority. Do not post private or restricted material.
+  - type: input
+    id: question
+    attributes:
+      label: Question or problem
+      description: Link an existing question or explain a new one without duplicating an open proposal.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Who would use the result, and what could it change?
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Smallest useful output
+      description: Include the method, existing work checked, evidence needed and major uncertainty. An exact small output is more useful than a broad promise.
+    validations:
+      required: true
+  - type: textarea
+    id: needs
+    attributes:
+      label: What do you need from maintainers?
+      description: A scope decision, feedback on the question, or review of existing work. Do not assume a committed review slot or project execution authority.
+    validations:
+      required: false
+  - type: checkboxes
+    id: public-rights
+    attributes:
+      label: Public sharing and contribution terms
+      options:
+        - label: I may share this material publicly, have identified third-party restrictions, and included no private or restricted material.
+          required: true
+        - label: I have read and accept the [contribution terms](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/CONTRIBUTING.md) and applicable [material-specific rights](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/RIGHTS.md), including CC BY-SA 4.0 for accepted original program contributions; I retain my rights.
+          required: true
+        - label: I checked existing threads and understand that review, acceptance and rewards are not guaranteed.
+          required: true

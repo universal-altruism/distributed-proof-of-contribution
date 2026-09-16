@@ -8,10 +8,10 @@ Contributors retain the rights they hold. No undisclosed assignment, exclusive c
 
 Third-party material, marks, separately identified quotations and linked source bodies retain their own rights and legal exceptions. A citation is not permission to redistribute a source body. No private records or unreleased software are included. The default for deliberately selected future public software is Apache-2.0 after its actual dependencies and notices are checked; no software is licensed by this page.
 
-**Outside intake remains CLOSED.** No review schedule, compensation, reward or acceptance is promised. A submission route, responsible maintainer, capacity and exact submission terms must be announced before outside work is requested. The document licenses do not open intake or authorize execution of a proposed mission.
+[Community corrections, objections and proposals are welcome](CONTRIBUTING.md). The submitting account confirms that it may share the material publicly and accepts the published contribution and applicable material-specific terms. No review deadline, compensation, reward or acceptance is promised. Opening the route does not authorize execution of a proposed mission.
 
 ## Designated program material
 
-Original material in `README.md`, `PROGRAM.md`, `CONTRIBUTION-CYCLE.md`, `RIGHTS.md` and `RIGHTS-MAP.json` is CC BY-SA 4.0. The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
+Original material in `README.md`, `PROGRAM.md`, `CONTRIBUTION-CYCLE.md`, `CONTRIBUTING.md`, `RIGHTS.md`, `RIGHTS-MAP.json`, `.github/ISSUE_TEMPLATE/01-correction-or-objection.yml`, `.github/ISSUE_TEMPLATE/02-propose-work.yml`, `.github/ISSUE_TEMPLATE/config.yml` and `.github/PULL_REQUEST_TEMPLATE.md` is CC BY-SA 4.0. The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
 
-If intake later opens under stated terms, contributors must confirm the rights needed for their submissions and agree that accepted contributions to designated public program documents will be available under CC BY-SA 4.0. Receipt, copying for review, discussion or technical processing is not acceptance. No ownership assignment or Bank interest follows. Corrections and removal requests can be considered without promising to recall independent copies.
+Accepted original contributions to designated public program documents use CC BY-SA 4.0, with attribution. Contributors retain ownership of rights they hold. Receipt, copying for review, discussion and technical processing are not acceptance. No ownership assignment or Bank interest follows. Corrections and removal requests may be considered without promising to recall independent copies or revoke compliant recipients' existing permissions. Third-party source bodies retain their own terms.

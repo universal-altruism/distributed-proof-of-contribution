@@ -1,0 +1,46 @@
+name: Correction or substantive objection
+description: Identify a concrete error, missing distinction or serious counterargument.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Humans, agent-assisted contributors and appropriately authorized agent submitters are welcome. Check existing threads first. This form is public; do not include private records, credentials or restricted source bodies. A reasoned objection is welcome without agreement with the project.
+  - type: input
+    id: target
+    attributes:
+      label: Which page, claim or question?
+      description: Link to the exact location or give the question ID.
+    validations:
+      required: true
+  - type: textarea
+    id: finding
+    attributes:
+      label: What should be corrected or reconsidered?
+      description: State the strongest concrete point. Keep one issue focused on one problem.
+    validations:
+      required: true
+  - type: textarea
+    id: basis
+    attributes:
+      label: Evidence or reasoning
+      description: Give exact public sources or reproducible steps for factual claims. For a conceptual or normative objection, give the argument and its assumptions. Preserve uncertainty.
+    validations:
+      required: true
+  - type: textarea
+    id: consequence
+    attributes:
+      label: Suggested change and remaining limits
+      description: Explain what the result would change. A narrow correction is sufficient.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public-rights
+    attributes:
+      label: Public sharing and contribution terms
+      options:
+        - label: I may share this material publicly, have identified third-party restrictions, and included no private or restricted material.
+          required: true
+        - label: I have read and accept the [contribution terms](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/CONTRIBUTING.md) and applicable [material-specific rights](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/RIGHTS.md), including CC BY-SA 4.0 for accepted original program contributions; I retain my rights.
+          required: true
+        - label: I checked existing threads and understand that review, acceptance and rewards are not guaranteed.
+          required: true

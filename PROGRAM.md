@@ -33,7 +33,7 @@ Maximum Sustainable Acceleration remains a heuristic for progress that preserves
 
 ## State and relationships
 
-The UA organization and public DPoC program documentation were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested. The first internal pilot is deferred until a consequential question earns execution. Designated document rights are stated in [RIGHTS.md](RIGHTS.md), and outside intake remains closed.
+The UA organization and public DPoC program documentation were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested. The first internal pilot is deferred until a consequential question earns execution. Designated document rights are stated in [RIGHTS.md](RIGHTS.md), and [community corrections, objections and proposals are welcome](CONTRIBUTING.md).
 
 Make Death an Option supplies the originating argument and conceptual context. Contribution and Replicator programs belong to UA's proposed program map. The commercial Continuity Bank remains separate; UA participation does not require a commercial relationship. None of these relationships establishes an operating continuity service or a guaranteed abundance floor.
 
