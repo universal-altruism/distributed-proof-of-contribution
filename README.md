@@ -13,7 +13,7 @@ Distributed Proof of Contribution (DPoC) is a proposed contribution program with
 An observation may clarify a question. A careful check may close a false path. A tool may remove a practical obstacle. The proposed cycle asks whether the result survives scrutiny and changes a real decision. Producing more paperwork is insufficient.
 
 ```mermaid
-flowchart LR
+flowchart TD
     Q[Selected question] --> R[Result and evidence]
     R --> C[Independent check]
     C --> D[Decision and integration]
