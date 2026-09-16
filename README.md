@@ -14,13 +14,13 @@ An observation may clarify a question. A careful check may close a false path. A
 
 ```mermaid
 flowchart TD
-    Q[Selected question] --> R[Result and evidence]
-    R --> C[Independent check]
-    C --> D[Decision and integration]
-    D --> U[Assess actual usefulness]
+    Q[Selected question] --> R[Contributor:<br/>result and evidence]
+    R --> C[Independent checker:<br/>check and review outcome]
+    C --> D[Accountable decision owner:<br/>disposition]
+    D --> I[Integration, non-adoption<br/>or pending]
+    I --> U[Assess later usefulness:<br/>continue, change or stop]
     C --> X[Correction or retained dissent]
     X --> R
-    U --> N[Continue, change or stop]
     classDef question fill:#A94E32,stroke:#25231F,color:#F2E9D8,stroke-width:2px;
     classDef record fill:#F2E9D8,stroke:#25231F,color:#25231F,stroke-width:1.5px;
     classDef check fill:#153D40,stroke:#25231F,color:#F2E9D8,stroke-width:1.5px;
@@ -28,10 +28,10 @@ flowchart TD
     class Q question;
     class R,X record;
     class C check;
-    class D,U,N decision;
+    class D,I,U decision;
 ```
 
-In words: select a real question and its permitted scope; produce a result with evidence; have another checker inspect it; preserve corrections and dissent; record the responsible decision and any integration; then assess whether the cycle was useful enough to continue. The diagram describes a proposed process, not executed work.
+In words: select a real question and its permitted scope; a contributor produces a result with evidence; an independent checker records a check and review outcome while preserving corrections and dissent. Review acceptance does not determine disposition: an accountable decision owner records what to do, after which integration occurs, does not occur, or remains pending. A later assessment asks whether the cycle was useful enough to continue. The diagram describes a proposed process, not executed work.
 
 Credit should recognize useful negative findings, review and integration as well as production. It describes work performed and does not confer authority over the program or another participant. Automation would require evidence of a recurring cost that ordinary documents and manual review do not adequately address.
 
