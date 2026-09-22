@@ -6,7 +6,7 @@ A useful cycle connects a question to evidence, an independent check and a real 
 
 A selected task needs a beneficiary, answerable question, permitted sources and actions, expected output, independent checker and accountable decision owner. A broader need that emerges during work becomes a separately scoped proposal. Source-access failure is an access limit, not a negative scientific finding.
 
-Community corrections, objections and proposals use the [open contribution route and terms](CONTRIBUTING.md). That lightweight queue is separate from executing the full cycle described here. Contributors retain their rights; accepted original program material uses designated CC BY-SA 4.0 terms, without an assignment to UA or Bank.
+Community corrections, objections and proposals use the [open contribution route and terms](CONTRIBUTING.md) and its [review SOP](REVIEW.md). That lightweight queue is separate from executing the full cycle described here. Contributors retain their rights; accepted original program material uses designated CC BY-SA 4.0 terms, without an assignment to UA or Bank.
 
 An internal pilot still requires its own scoped authorization. The memory-methods candidate remains deferred; opening the community queue does not execute it.
 

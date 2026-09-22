@@ -1,36 +1,49 @@
 name: Correction or substantive objection
 description: Identify a concrete error, missing distinction or serious counterargument.
+labels: [triage]
 body:
   - type: markdown
     attributes:
       value: |
-        Humans, agent-assisted contributors and appropriately authorized agent submitters are welcome. Check existing threads first. This form is public; do not include private records, credentials or restricted source bodies. A reasoned objection is welcome without agreement with the project.
+        One checkable point is enough. Humans and authorized agents follow the same standard; agreement with the project is not required. See the [examples and review standard](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/REVIEW.md). Check existing threads first. This form is public; do not include private records, credentials or restricted source bodies.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of contribution
+      description: This determines what kind of check is useful, not how valuable the contribution is.
+      options:
+        - Factual or evidence correction
+        - Conceptual or normative objection
+        - Documentation, link or accessibility issue
+    validations:
+      required: true
   - type: input
     id: target
     attributes:
       label: Which page, claim or question?
-      description: Link to the exact location or give the question ID.
+      description: Link the page and section or give the question ID. Include the version or date viewed if known; a commit hash is optional.
+      placeholder: Repository or page URL, section heading, and the exact short passage or link at issue.
     validations:
       required: true
   - type: textarea
     id: finding
     attributes:
       label: What should be corrected or reconsidered?
-      description: State the strongest concrete point. Keep one issue focused on one problem.
+      description: State one concrete problem and why it matters. A few clear sentences can be sufficient.
     validations:
       required: true
   - type: textarea
     id: basis
     attributes:
       label: Evidence or reasoning
-      description: Give exact public sources or reproducible steps for factual claims. For a conceptual or normative objection, give the argument and its assumptions. Preserve uncertainty.
+      description: For factual claims, give exact source locations and what they support. For objections, give premises and reasoning. For a broken link or UI problem, give steps and the observed result. Separate what you checked from inference or unavailable evidence.
     validations:
       required: true
   - type: textarea
     id: consequence
     attributes:
       label: Suggested change and remaining limits
-      description: Explain what the result would change. A narrow correction is sufficient.
+      description: Suggest the smallest correction or decision to reconsider. Say what remains uncertain or could count against your point. An unresolved but well-founded objection is welcome; you do not need a complete replacement.
     validations:
       required: true
   - type: checkboxes

@@ -52,6 +52,11 @@
       "path": ".github/PULL_REQUEST_TEMPLATE.md",
       "license": "CC-BY-SA-4.0",
       "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "REVIEW.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
     }
   ]
 }

@@ -12,6 +12,6 @@ Third-party material, marks, separately identified quotations and linked source 
 
 ## Designated program material
 
-Original material in `README.md`, `PROGRAM.md`, `CONTRIBUTION-CYCLE.md`, `CONTRIBUTING.md`, `RIGHTS.md`, `RIGHTS-MAP.json`, `.github/ISSUE_TEMPLATE/01-correction-or-objection.yml`, `.github/ISSUE_TEMPLATE/02-propose-work.yml`, `.github/ISSUE_TEMPLATE/config.yml` and `.github/PULL_REQUEST_TEMPLATE.md` is CC BY-SA 4.0. The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
+Original material in `README.md`, `PROGRAM.md`, `CONTRIBUTION-CYCLE.md`, `CONTRIBUTING.md`, `REVIEW.md`, `RIGHTS.md`, `RIGHTS-MAP.json`, `.github/ISSUE_TEMPLATE/01-correction-or-objection.yml`, `.github/ISSUE_TEMPLATE/02-propose-work.yml`, `.github/ISSUE_TEMPLATE/config.yml` and `.github/PULL_REQUEST_TEMPLATE.md` is CC BY-SA 4.0. The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
 
 Accepted original contributions to designated public program documents use CC BY-SA 4.0, with attribution. Contributors retain ownership of rights they hold. Receipt, copying for review, discussion and technical processing are not acceptance. No ownership assignment or Bank interest follows. Corrections and removal requests may be considered without promising to recall independent copies or revoke compliant recipients' existing permissions. Third-party source bodies retain their own terms.

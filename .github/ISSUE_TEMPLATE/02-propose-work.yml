@@ -1,10 +1,20 @@
-name: Propose a useful contribution
-description: Check the fit of a bounded contribution before investing substantial work.
+name: Propose or share useful work
+description: Propose one small deliverable or submit a completed result for review.
+labels: [triage]
 body:
   - type: markdown
     attributes:
       value: |
-        Propose one useful piece of work. Review and acceptance are not guaranteed, and no payment or reward is offered. Independent work remains your choice under your own authority. Do not post private or restricted material.
+        One useful, inspectable result is enough. For substantial work, discuss fit before investing effort in expectation of adoption. See the [review standard and examples](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/REVIEW.md). Review and acceptance are not guaranteed; no payment or reward is offered. Independent work remains your choice under your own authority. Do not post private or restricted material.
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Stage of the work
+      options:
+        - Idea or scope proposal
+        - Completed work for review
+    validations:
+      required: true
   - type: input
     id: question
     attributes:
@@ -21,8 +31,15 @@ body:
   - type: textarea
     id: output
     attributes:
-      label: Smallest useful output
-      description: Include the method, existing work checked, evidence needed and major uncertainty. An exact small output is more useful than a broad promise.
+      label: Smallest useful output or completed result
+      description: Name the concrete artifact and method. For completed work, link its exact version and summarize the result here. Say what existing work you checked; do not submit only an external link or a broad promise.
+    validations:
+      required: true
+  - type: textarea
+    id: check
+    attributes:
+      label: How can the result be checked?
+      description: For a proposal, give the smallest check that would distinguish useful work from an unsupported claim. For completed work, give sources or reproduction steps, checks actually performed, limits and contrary evidence. Report failed or unperformed checks honestly. A conceptual proposal can be checked through its premises and counterexamples.
     validations:
       required: true
   - type: textarea

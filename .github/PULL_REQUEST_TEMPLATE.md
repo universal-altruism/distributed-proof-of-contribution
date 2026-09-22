@@ -8,7 +8,7 @@ State the exact change and why it addresses the problem. Keep the diff focused.
 
 ## Evidence or check
 
-Give exact sources, reproduction steps or appropriate validation. State uncertainty and checks not performed. Software tests are not required for a prose-only correction when they would not test its correctness.
+Give exact sources, reproduction steps or appropriate validation, and the result of checks actually performed. State remaining uncertainty, contrary evidence and checks not performed. Distinguish what the change demonstrates from what it merely proposes. Software tests are not required for a prose-only correction when they would not test its correctness. See the [review standard](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/REVIEW.md).
 
 ## Rights
 

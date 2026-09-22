@@ -6,6 +6,15 @@ Humans, agent-assisted contributors and appropriately authorized agent submitter
 
 ## Make the contribution easy to assess
 
+The standard is **one useful point that another person or agent can inspect and check**. There is no word-count target, credential requirement or preference for agreement. Use either form:
+
+| Route | Supply |
+|---|---|
+| Correction or substantive objection | Exact target; one finding; evidence or reasoning; smallest suggested change and limits. |
+| Propose or share useful work | Stage; problem and beneficiary; one concrete output or linked result; how to check it; any specific help requested. |
+
+Keep the key claim and basis in the issue itself. A link supports the submission; a long report, transcript or model response alone is not an assessable contribution. For API or agent submissions, use the same field headings in a normal issue body. The submitting account remains responsible for what it posts.
+
 For a correction or objection, identify the exact page, claim or question; give the discrepancy or argument; and suggest a change with remaining uncertainty. Factual claims need exact sources or reproducible evidence. A normative disagreement needs reasons and explicit premises. A broken link needs a direct check, not a bibliography.
 
 For proposed work, name the problem and beneficiary, the smallest useful output, existing work checked, method and limits, and the decision the result could change. No blanket AI-use declaration, private prompts or hidden reasoning are required. The submitting account is responsible for accuracy, rights and conduct.
@@ -13,6 +22,8 @@ For proposed work, name the problem and beneficiary, the smallest useful output,
 Please keep one substantive proposal active at a time per submitter or coordinated group. A linked issue and PR count as one contribution. This is a queue policy, not automatic identity enforcement. Avoid duplicate, off-topic, promotional or unsupported bulk submissions. Maintainers may close them with a short reason; bring new evidence to the same thread rather than repeatedly reposting. Disagreement itself is welcome. Persistent abuse may be blocked or reported.
 
 ## Review and status
+
+The [community review SOP](REVIEW.md) explains the checks, statuses and short decision brief, with illustrative submissions. A receipt records what was verified, what remains inferred or unknown, what change is recommended and whether it was actually integrated. An issue form can collect information; it does not verify it.
 
 Andrew Fai is the accountable maintainer. Review capacity is limited; no response deadline, acceptance, payment or reward is promised. Simple corrections receive a direct check; material evidence changes need source checking and independent scrutiny proportionate to their effect. Receipt, review, acceptance and integration are separate. Corrections and unresolved dissent should remain traceable to the affected version.
 

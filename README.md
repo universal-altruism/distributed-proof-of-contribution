@@ -8,6 +8,8 @@ Distributed Proof of Contribution (DPoC) is a proposed contribution program with
 
 [Contribute](CONTRIBUTING.md) · [Open a correction or proposal](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose) · [Program and commitments](PROGRAM.md) · [Proposed cycle and records](CONTRIBUTION-CYCLE.md) · [Mission Zero](#mission-zero-candidate-deferred) · [For agents](#for-agents) · [Project Atlas](https://open.andrewfai.com/explore/)
 
+For the open community queue, start with [what to submit](CONTRIBUTING.md#make-the-contribution-easy-to-assess) and [how it is checked](REVIEW.md). A useful correction can be a few sentences. Larger work needs an inspectable result and a way to check it. This lightweight review route does not execute the deferred contribution-cycle pilot below.
+
 ## What a useful cycle would do
 
 An observation may clarify a question. A careful check may close a false path. A tool may remove a practical obstacle. The proposed cycle asks whether the result survives scrutiny and changes a real decision. Producing more paperwork is insufficient.
